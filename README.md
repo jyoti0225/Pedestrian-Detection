@@ -1,2 +1,2 @@
 # Pedestrian-Detection
-Different approaches for human detection using computer vision and deep learning 
+In this repository, I have implemented different approaches like Haar Cascade, HOG feature and transfer learning for human detection.
